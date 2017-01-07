@@ -1,0 +1,11 @@
+{
+  "name": "vue-example-series",
+  "version": "1.0.0",
+  "description": "A set of examples complementing the react examples from https://github.com/hirakme/ReactSeriesPart1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sagi Avinash Varma",
+  "license": "ISC"
+}
